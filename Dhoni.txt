@@ -7,3 +7,5 @@ and in remote repo there is different line
 =======
 today i think he will play well against bangladesh
 >>>>>>> 47cf45167be7ccabe4454317d5efb0376d506b89
+we had pushed it remote repo after resolving conflicts
+now ae added two line after resolving conflicts and commiting
